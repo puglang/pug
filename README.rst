@@ -14,7 +14,7 @@
     :alt: Project generated with PyScaffold
     :target: https://pyscaffold.org/
 
-.. figure:: img/pug-logo.png
+.. image:: https://raw.githubusercontent.com/puglang/pug/main/img/pug-logo.png
 
 |
 
