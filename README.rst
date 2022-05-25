@@ -15,6 +15,7 @@
     :target: https://pyscaffold.org/
 
 .. figure:: img/pug-logo.png
+
 |
 
 =======
