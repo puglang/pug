@@ -14,6 +14,7 @@
     :alt: Project generated with PyScaffold
     :target: https://pyscaffold.org/
 
+.. figure:: img/pug-logo.png
 |
 
 =======
