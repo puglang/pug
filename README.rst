@@ -1,9 +1,6 @@
 .. These are examples of badges you might want to add to your README:
    please update the URLs accordingly
 
-    .. image:: https://api.cirrus-ci.com/github/<USER>/puglang.svg?branch=main
-        :alt: Built Status
-        :target: https://cirrus-ci.com/github/<USER>/puglang
     .. image:: https://readthedocs.org/projects/puglang/badge/?version=latest
         :alt: ReadTheDocs
         :target: https://puglang.readthedocs.io/en/stable/
@@ -19,9 +16,6 @@
     .. image:: https://pepy.tech/badge/puglang/month
         :alt: Monthly Downloads
         :target: https://pepy.tech/project/puglang
-    .. image:: https://img.shields.io/twitter/url/http/shields.io.svg?style=social&label=Twitter
-        :alt: Twitter
-        :target: https://twitter.com/puglang
 
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
@@ -34,11 +28,10 @@ puglang
 =======
 
 
-    Add a short description here!
+    Pug Programming Language
 
 
-A longer description of your project goes here...
-
+Pug is a general purpose programming language.
 
 .. _pyscaffold-notes:
 
