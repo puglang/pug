@@ -80,7 +80,7 @@ jobs:
         uses: coverallsapp/github-action@master
         with:
           path-to-lcov: coverage.lcov
-          github-token: ${{ secrets.github_token }}
+          github-token: ${{ secrets.COVERALLS_TOKEN }}
           flag-name: ${{ matrix.platform }} - py${{ matrix.python }}
           parallel: true
 
@@ -91,7 +91,7 @@ jobs:
       - name: Finalize coverage report
         uses: coverallsapp/github-action@master
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.COVERALLS_TOKEN }}
           parallel-finished: true
 
   publish:
