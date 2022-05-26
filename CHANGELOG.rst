@@ -2,6 +2,14 @@
 Changelog
 =========
 
+Version 0.0.5
+=============
+- Lexer basics
+
+Version 0.0.4
+=============
+- Adding basic logic
+
 Version 0.0.3
 =============
 - Fixing logo
