@@ -1,3 +1,6 @@
+import re
+
+
 class LexicalError(Exception):
     pass
 
@@ -9,6 +12,9 @@ class Lexer:
 
     def load(self, source_code):
         self.source_code = source_code
+
+    def is_symbol(self, character):
+        return True if re.search("[^a-zA-Z\\d]", character) else False
 
     def lex(self):
         if self.source_code == "":
