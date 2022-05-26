@@ -1,3 +1,6 @@
+.. image:: https://github.com/puglang/pug/actions/workflows/ci.yml/badge.svg
+  :alt: Tests
+
 .. image:: https://img.shields.io/pypi/v/puglang.svg
   :alt: PyPI-Server
   :target: https://pypi.org/project/puglang/
@@ -9,6 +12,10 @@
 .. image:: https://readthedocs.org/projects/puglang/badge/?version=latest
   :alt: ReadTheDocs
   :target: https://puglang.readthedocs.io/en/stable/
+
+.. image:: https://pepy.tech/badge/puglang
+  :alt: Downloads
+  :target: https://pepy.tech/badge/puglang
 
 .. image:: https://img.shields.io/badge/-PyScaffold-005CA0?logo=pyscaffold
     :alt: Project generated with PyScaffold
