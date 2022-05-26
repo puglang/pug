@@ -1,5 +1,6 @@
 .. image:: https://github.com/puglang/pug/actions/workflows/ci.yml/badge.svg
   :alt: Tests
+  :target: https://github.com/puglang/pug/actions/workflows/ci.yml/
 
 .. image:: https://img.shields.io/pypi/v/puglang.svg
   :alt: PyPI-Server
