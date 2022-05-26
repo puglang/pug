@@ -13,7 +13,8 @@ class Lexer:
     def load(self, source_code):
         self.source_code = source_code
 
-    def is_symbol(self, character):
+    @staticmethod
+    def is_symbol(character):
         return True if re.search("[^a-zA-Z\\d]", character) else False
 
     def lex(self):
